@@ -1,6 +1,5 @@
 # UserLoginandAdministration
 This project an demonstration web application for user administration with Spring MVC and Maven.
-@author Linglong Meng
 @Date 26.02.2016
 
 Features
