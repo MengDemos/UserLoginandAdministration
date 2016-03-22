@@ -5,11 +5,11 @@ This project an demonstration web application for user administration with Sprin
 Features
 --------
 
-	Login form for users(admin or user)
-	User administration(add,edit,delete), only for admin
-	Spring Security authentication and authorization with embedded database
-	Obligatory fields checking and syntactical correctness checking with Hibernate Validator
-	Exception Handling
+	1. Login form for users(admin or user)
+	2. User administration(add,edit,delete), only for admin
+	3. Spring Security authentication and authorization with embedded database
+	4. Obligatory fields checking and syntactical correctness checking with Hibernate Validator
+	5. Exception Handling
 	
 Libraries
 ---------
